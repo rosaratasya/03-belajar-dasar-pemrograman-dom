@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+}
+
+input {
+    padding: 10px;
+    width: 70%;
+}
+
+button {
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+#pesan {
+    margin-top: 15px;
+}
+
+li {
+    margin: 8px 0;
+}
